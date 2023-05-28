@@ -6,17 +6,20 @@ The M5STACK ESP32 module is required for the code to operate, The code may also 
 
 
 SPECIFICATION OF DEVICE:
-PSRAM -	8MB
-Flash	 - 4M
-Image Sensor	- OV3660
-Maximum resolution	- 3M pixels
-Output format	-  8-/10-Bit RAW, RGB and YCbCr output, compression.
-DFOV	-  66.5°
-Battery Interface Specifications -	SH1.0-2P
-Net Weight -	6g
-Gross Weight -	17g
-Product Size -	45*20*12mm
-Package Size -	60*60*15mm
+PSRAM -	8MB,
+Flash	 - 4MB,
+Image Sensor	- OV3660,
+Maximum resolution	- 3M pixels,
+Output format	-  8-/10-Bit RAW, RGB and YCbCr output, compression,
+DFOV	-  66.5°,
+Battery Interface Specifications -	SH1.0-2P,
+Net Weight -	6g,
+Gross Weight -	17g,
+Product Size -	45*20*12mm,
+Package Size -	60*60*15mm,
+
+![image](https://github.com/AmritaCSN/Major_Project_Electromagnetic_Fault_Injection_ASCON_using_ChipShouter_Varun_Narayanan/assets/123752463/9557e066-0516-4b37-82fe-6bbf1f9ca690)
+
 
 
 REFERENCES:
